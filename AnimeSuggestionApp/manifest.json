@@ -1,0 +1,21 @@
+{
+  "name": "Animexo",
+  "short_name": "Animexo",
+  "start_url": "./index.jsp",
+  "display": "standalone",
+  "background_color": "#050b18",
+  "theme_color": "#1e90ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon1.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon2.jpeg",
+      "sizes": "1080x1079",
+      "type": "image/jpeg"
+    }
+  ]
+}
